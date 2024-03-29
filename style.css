@@ -1,0 +1,29 @@
+body
+{
+    background-size: cover;
+    font-family: monospace;
+}
+
+.heading
+{
+    margin-top: 0px;
+    width: 100%;
+    font-size: 25px;
+}
+
+.note
+{
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+
+#status, #start_button, #objects_found_status
+{
+    font-size: 18px;
+}
+
+#object_name
+{
+    width: 200px;
+}
